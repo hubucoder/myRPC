@@ -1,3 +1,5 @@
 # Project exclude paths
 /myRPC-framework-core/target/
 /myRPC-framework-interface/target/
+irpc.log.3
+irpc.log
