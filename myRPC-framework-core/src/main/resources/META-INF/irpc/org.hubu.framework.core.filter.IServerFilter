@@ -1,0 +1,4 @@
+serverLogFilterImpl=org.hubu.framework.core.filter.server.ServerLogFilterImpl
+serverTokenFilterImpl=org.hubu.framework.core.filter.server.ServerTokenFilterImpl
+serverServiceBeforeLimitFilterImpl=org.hubu.framework.core.filter.server.ServerServiceBeforeLimitFilterImpl
+serverServiceAfterLimitFilterImpl=org.hubu.framework.core.filter.server.ServerServiceAfterLimitFilterImpl

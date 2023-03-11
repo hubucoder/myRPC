@@ -1,0 +1,4 @@
+kryo=org.hubu.framework.core.serialize.KryoSerializeFactory
+jdk=org.hubu.framework.core.serialize.JDKSerializeFactory
+hessian=org.hubu.framework.core.serialize.HessianSerializeFactory
+fastJson=org.hubu.framework.core.serialize.FastJsonSerializeFactory

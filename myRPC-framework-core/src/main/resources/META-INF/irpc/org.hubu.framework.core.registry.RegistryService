@@ -1,0 +1,1 @@
+zookeeper=org.hubu.framework.core.registry.zookeeper.ZookeeperRegister

@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+org.hubu.framework.starter.config.IRpcClientAutoConfiguration,\
+org.hubu.framework.starter.config.IRpcServerAutoConfiguration

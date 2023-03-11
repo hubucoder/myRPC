@@ -1,0 +1,2 @@
+rotate=org.hubu.framework.core.router.RotateRouterImpl
+random=org.hubu.framework.core.router.RandomRouterImpl

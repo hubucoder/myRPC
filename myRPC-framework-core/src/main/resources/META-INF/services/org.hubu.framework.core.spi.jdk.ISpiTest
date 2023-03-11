@@ -1,0 +1,2 @@
+org.hubu.framework.core.spi.jdk.DefaultISpiTest
+org.hubu.framework.core.spi.jdk.DIYISpiTest

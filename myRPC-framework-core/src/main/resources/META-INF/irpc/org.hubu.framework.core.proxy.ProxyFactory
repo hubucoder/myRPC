@@ -1,0 +1,2 @@
+jdk=org.hubu.framework.core.proxy.jdk.JDKProxyFactory
+javassist=org.hubu.framework.core.proxy.javassist.JavassistProxyFactory

@@ -1,0 +1,3 @@
+# Project exclude paths
+/myRPC-framework-core/target/
+/myRPC-framework-interface/target/
